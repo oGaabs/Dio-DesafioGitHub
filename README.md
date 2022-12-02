@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img alt="Dreams Banner" title="" src="https://user-images.githubusercontent.com/53992405/205208120-3145761a-dea5-4f9f-8324-fbe667ee1202.png" width="500px" height="300px" />
+    <img alt="Dreams Banner" title="" src="https://user-images.githubusercontent.com/53992405/205208120-3145761a-dea5-4f9f-8324-fbe667ee1202.png" width="500px" height="250px" />
 </h2>
 <p align="center">
   <h1 align="center">Desafio de Projeto sobre Git/GitHub | Potencia Tech Java Beginners</h1>
