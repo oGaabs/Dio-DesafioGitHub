@@ -14,6 +14,14 @@
 
 ___
 
+## EXIGENCIA DO DESAFIO - Desafio do projeto abaixo
+# Repositorio do Desafio de Projeto sobre  Git/GitHub da DIO
+Desafio de projeto sobre Git/GitHub
+
+## Links Úteis
+[syntax markdown](https://www.markdownguide.org/basic-syntax/)
+
+
 ## 💻 Sobre
 Desafio de Projeto exigido na Potencia Tech Java Potencia Tech Java Beginners, bootcamp da Dio/iFood.
 
