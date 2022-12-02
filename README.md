@@ -34,7 +34,7 @@ Fique à vontade para enviar sugestões, dicas ou até mesmo reconstruir o códi
 
 ## 📝 License
 
-This project is licensed under the [MIT LICENSE][license].
+No license.
 
 ---
 
